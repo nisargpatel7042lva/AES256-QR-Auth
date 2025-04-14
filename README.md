@@ -25,6 +25,3 @@ A secure authentication system using **AES-256 encryption** and **QR codes** to 
 - `pillow` for image handling
 
 ---
-
-## 📂 Project Structure
-
